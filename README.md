@@ -1,5 +1,5 @@
 # CodSoft_TASK_No.-2
-# Movie Rating Prediction 
+# Movie Rating Prediction Using Python 
 # Author: Gopal Krishna 
 # Batch: July A58
 # Domain: DATA SCIENCE 
